@@ -1,5 +1,17 @@
 .working{
     padding: 10px;
-    border: solid 3px black;
+    border-bottom: solid 2px black;
     margin: 10px;
+    max-width: 450px;
+}
+.resume{
+    max-width: 550px;
+    margin: auto;
+}
+#top{
+    margin: auto;
+    text-align: center;
+    margin-bottom: 10px;
+    border-bottom: solid 2px black;
+    max-width: 600px
 }
